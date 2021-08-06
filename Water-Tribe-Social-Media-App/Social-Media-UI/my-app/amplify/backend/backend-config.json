@@ -1,0 +1,16 @@
+{
+  "auth": {
+    "snproject20cd03934": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "storage": {
+    "s38677164a": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}
